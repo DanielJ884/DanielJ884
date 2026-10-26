@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @DanielJ884
-- 👀 I’m interested in software development ...
-- 🌱 I’m currently learning java,c++ ...
-- 💞️ I’m looking to collaborate on assist to developing yours projects...
-- 📫 How to reach me mail...
+# Hi, I'm Daniel Jerald 👋
 
-<!---
-DanielJ884/DanielJ884 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Senior DevOps Engineer focused on building reliable cloud platforms and delivery automation.
+
+## What I do
+
+- Google Cloud Platform and GKE
+- Kubernetes, Terraform, Docker, and Helm
+- GitLab CI/CD and automation
+- Cloud migrations and platform modernization
+- Cloud SQL, PostgreSQL, and operational reliability
+
+## Certifications and recognition
+
+- Google Associate Cloud Engineer
+- Shine Award (2x)
+- VP Award
+
+## Portfolio
+
+Explore my work and experience:
+
+[View my DevOps portfolio](YOUR_PORTFOLIO_URL)
+
+## Connect with me
+
+- Email: danieljerald884@gmail.com
+- LinkedIn: [Daniel Jerald](YOUR_LINKEDIN_URL)
